@@ -1,1 +1,14 @@
-Generate a bar chart or histogram to visually represent the distribution of a categorical or continuous variable, such as the age distribution or gender composition within a population. This graphical representation offers a clear and insightful overview of the data's patterns and trends
+# Task 01: Data Visualization of Categorical and Continuous Variables
+
+## Description
+This project involves generating visual representations of the distribution of categorical and continuous variables. Specifically, it uses a dataset to create a histogram for a continuous variable and a bar chart for a categorical variable. These visualizations help in understanding the data's patterns and trends.
+
+## Installation
+To run this project, you need to have Python and the following libraries installed:
+- pandas
+- matplotlib
+
+You can install the required libraries using pip:
+```sh
+pip install pandas matplotlib
+
